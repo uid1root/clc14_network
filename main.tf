@@ -51,7 +51,7 @@ resource "aws_route_table" "priv_rt_1a" {
 
 
   tags = {
-    Name = "priv-rt-1a"
+    Name = "priv-rt-1A"
   }
 }
 
